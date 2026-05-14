@@ -164,12 +164,6 @@ Please open an issue first for major changes so we can discuss the direction.
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
-
----
-
 ## 🙏 Acknowledgements
 
 - [pandas](https://pandas.pydata.org/) — data manipulation
