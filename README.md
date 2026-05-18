@@ -286,12 +286,6 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📄 License
-
-Distributed under the **MIT License**. See `LICENSE` for more information.
-
----
-
 ## 🙏 Acknowledgments
 
 - [Pandas](https://pandas.pydata.org) — Data manipulation powerhouse
